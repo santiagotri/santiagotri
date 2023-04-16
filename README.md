@@ -2,7 +2,7 @@
 
 I am a Systems and Computer Engineering student passionate about web and mobile application development. I love software, imagining, designing and creating from it.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagotri)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
